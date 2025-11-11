@@ -1,46 +1,22 @@
-<!-- ✨ Shravya — Animated Pastel README ✨ -->
+# 💫 About Me:
+🎀 Computer Science Engineering student<br>💻 I build tidy web apps to stay consistent and productive<br>✍️ I write content, aka copywriting<br>🌱 Currently learning: fundamentals of cybersecurity<br>💬 I love clean UI, pastel palettes, and tiny delightful designs<br>
 
-<h1 align="center">Hi, I'm <span style="color:#e76f51">Shravya</span> 🎀</h1>
-<h4 align="center">Computer Science Student • Creator • Copywriter</h4>
----
 
-## 🌸 About Me
-- 🎀 Computer Science Engineering student   
-- 💻 I build tidy **web apps** to stay consistent and productive  
-- ✍️ I write content, aka **copywriting**  
-- 🌱 Currently learning: **fundamentals of cybersecurity**  
-- 💬 I love clean UI, pastel palettes, and tiny delightful designs
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shravyaunukuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravyaunukuri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shravyaunukuri0109@gmail.com) 
 
----
-
-## 🪄 Animated Quick Links
-<p align="center">
-  <!-- Replace links / badges as needed -->
-  <a href="https://www.linkedin.com/in/shravyaunukuri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shravyaunukuri0109@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/shravyaunukuri" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@yourname-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShravyaUnukuri&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShravyaUnukuri&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravyaUnukuri&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ShravyaUnukuri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌷 Tech & Tools
-<p align="center">
-  <!-- skillicons works well — leave as-is or replace with local icons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,git,github,vscode" alt="tech icons" />
-</p>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shravyaunukuri0109@gmail.com) 
 
----
-
-## 📊 GitHub & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShravyaUnukuri&show_icons=true&theme=react" width="48%" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravyaUnukuri&theme=react" width="48%" alt="streak" />
-</p>
-
----
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
