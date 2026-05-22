@@ -12,12 +12,13 @@
 
 ---
 
-### About
+### Hi, I'm Shravya 👋
 
-Final-year CS student at GVP College of Engineering for Women, Visakhapatnam.
-I build full-stack web applications, research post-quantum cryptography for IoV systems, and run a technical copywriting studio — [shr studio](mailto:shravyaunukuri0109@gmail.com).
+I'm a final-year CS student at GVP College of Engineering for Women, Visakhapatnam — and I'm someone who genuinely enjoys what she builds.
 
-Currently focused on MERN stack development and cybersecurity. I like clean interfaces, purposeful code, and writing that makes technical things feel human.
+I work across full-stack development, cybersecurity research, and technical writing. Right now I'm co-authoring a research paper on post-quantum authentication for connected vehicle networks, building web apps with the MERN stack, and running my own technical copywriting studio, [shr studio](mailto:shravyaunukuri0109@gmail.com).
+
+I care a lot about clean interfaces, code that's easy to read, and writing that makes technical ideas feel approachable.
 
 ---
 
@@ -51,24 +52,11 @@ Currently focused on MERN stack development and cybersecurity. I like clean inte
 ### Research
 
 **Secure Collaborative Authentication Framework for Federated Social IoV Systems** *(2025 – Present)*
-Post-quantum cryptography and federated learning-based authentication protocol for connected vehicle networks. Addresses replay attacks, impersonation, and MITM threats.
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravyaUnukuri&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ShravyaUnukuri&theme=rose_pine&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravyaUnukuri&theme=rose_pine&hide_border=true&layout=compact)
-
-</div>
+Co-authored paper proposing a post-quantum cryptography and federated learning-based authentication protocol for connected vehicle networks. Focuses on addressing real-world vulnerabilities — replay attacks, impersonation, and man-in-the-middle threats — in SIoV systems.
 
 ---
 
 <div align="center">
-<sub>Built with intention · Updated 2026</sub>
+<sub>Thanks for stopping by · feel free to reach out ✉️</sub>
 </div>
