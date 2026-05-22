@@ -14,7 +14,7 @@
 
 ### Hi, I'm Shravya 👋
 
-I'm a final-year CS student at GVP College of Engineering for Women, Visakhapatnam — and I'm someone who genuinely enjoys what she builds.
+“I’m a final-year Computer Science student from India, and I genuinely enjoy creating and building things through technology.”
 
 I work across full-stack development, cybersecurity research, and technical writing. Right now I'm co-authoring a research paper on post-quantum authentication for connected vehicle networks, building web apps with the MERN stack, and running my own technical copywriting studio, [shr studio](mailto:shravyaunukuri0109@gmail.com).
 
