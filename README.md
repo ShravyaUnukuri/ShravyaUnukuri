@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shravyaunukuri)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shravyaunukuri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shravyaunukuri0109@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Website-181717?style=flat-square&logo=githubpages&logoColor=white)](https://shravyaunukuri.github.io/MyPersonalPortfolio/)
 </div>
 
 ---
